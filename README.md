@@ -1,7 +1,7 @@
 Bir Million Sum (beta) integration/staging tree
 =========================================
 
-[![Build Status](https://travis-ci.org/OmniLayer/omnicore.svg?branch=omnicore-0.0.10)](https://travis-ci.org/OmniLayer/omnicore)
+[![Build Status](https://travis-ci.org/webtransfer/bms.svg?branch=master)](https://travis-ci.org/webtransfer/bms)
 
 What is the Bir Million Sum?
 ----------------------
